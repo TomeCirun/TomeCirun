@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 I am an Open Source Contributor | Open Data | CKAN Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Macedonia.
-- :telescope: I’m currently working as an Open Data/CKAN Developer for Salsa Digital.
+- :telescope: I’m currently working as an Open Data/CKAN Developer for Link Digital.
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I read tech articles.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-TomeCirun-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tome-petrovski-0553261b6/)
